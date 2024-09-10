@@ -6,8 +6,6 @@ Materials for learning SGLang
 
 [2024-09-04] [SGLang v0.3 Release: 7x Faster DeepSeek MLA, 1.5x Faster torch.compile, Multi-Image/Video LLaVA-OneVision](https://lmsys.org/blog/2024-09-04-sglang-v0-3/)
 
-[2024-08-15] [Supercharge Your LLMs Using SGLang For Inference: Why Speed and Efficiency Matter More Than Ever](https://blog.runpod.io/supercharge-your-llms-using-sglang/)
-
 [2024-07-25] [Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM)](https://lmsys.org/blog/2024-07-25-sglang-llama3/)
 
 [2024-02-05] [Fast JSON Decoding for Local LLMs with Compressed Finite State Machine](https://lmsys.org/blog/2024-02-05-compressed-fsm/)
