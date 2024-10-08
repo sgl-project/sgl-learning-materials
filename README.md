@@ -1,6 +1,4 @@
-# sgl-learning-materials
-
-Materials for learning SGLang
+# Materials for learning SGLang
 
 ## Blog
 
