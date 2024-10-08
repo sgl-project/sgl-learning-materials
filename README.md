@@ -25,3 +25,7 @@ Materials for learning SGLang
 Notes: It's working in progress.
 
 [SGLang Documentation](https://sglang.readthedocs.io/en/latest/)
+
+## Paper
+
+[NeurIPS 24] [SGLang: Efficient Execution of Structured Language Model Programs](https://arxiv.org/abs/2312.07104)
