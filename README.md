@@ -12,6 +12,8 @@
 
 ## Slides
 
+[2024-10-10] [Efficient LLM Inference with SGLang](slides/amd_dev_day_v2.pptx)
+
 [2024-10-05] [SGLang Double Sparsity](https://docs.google.com/presentation/d/1ibXDY7hjsk12QYcLeDpsFDYGlNvbkEF1XBgQJ-CqRDE)
 
 [2024-09-22] [SGLang DeepSeek MLA](https://docs.google.com/presentation/d/1wB_Ul0LZwIDL47qFl64b8hVhH1_ya-1YPAPSSv0cKMs)
