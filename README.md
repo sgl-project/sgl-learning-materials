@@ -12,11 +12,27 @@
 
 ## Slides
 
+### The First SGLang Online Meetup
+
+[2024-10-16] [SGLang CPU Overhead Hiding](slides/the_first_sglang_online_meetup.pdf)
+
+[2024-10-16] [Faster Constrained Decoding](slides/faster_constrained_decoding.pdf)
+
+[2024-10-16] [SGLang DeepSeek MLA](https://docs.google.com/presentation/d/1TUOgHsHvN_gt808BcoZechhM-24AAMvkQzwUsEXCdi4)
+
+### AMD Advancing AI 2024
+
 [2024-10-10] [Efficient LLM Inference with SGLang](slides/amd_dev_day_v2.pptx)
+
+
+### SGLang Biweekly Meeting
 
 [2024-10-05] [SGLang Double Sparsity](https://docs.google.com/presentation/d/1ibXDY7hjsk12QYcLeDpsFDYGlNvbkEF1XBgQJ-CqRDE)
 
 [2024-09-22] [SGLang DeepSeek MLA](https://docs.google.com/presentation/d/1wB_Ul0LZwIDL47qFl64b8hVhH1_ya-1YPAPSSv0cKMs)
+
+
+### Other
 
 [SGLang v0.2: Faster Interface and Runtime for LLM Inference](slides/SGLang-v0.2.pptx)
 
