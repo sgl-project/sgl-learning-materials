@@ -18,7 +18,7 @@
 
 [2024-10-16] [Faster Constrained Decoding](slides/faster_constrained_decoding.pdf)
 
-[2024-10-16] [SGLang DeepSeek MLA](https://docs.google.com/presentation/d/1TUOgHsHvN_gt808BcoZechhM-24AAMvkQzwUsEXCdi4)
+[2024-10-16] [SGLang DeepSeek MLA](slides/sglang_deepseek_mla.pdf)
 
 ### AMD Advancing AI 2024
 
@@ -29,12 +29,20 @@
 
 [2024-10-05] [SGLang Double Sparsity](https://docs.google.com/presentation/d/1ibXDY7hjsk12QYcLeDpsFDYGlNvbkEF1XBgQJ-CqRDE)
 
-[2024-09-22] [SGLang DeepSeek MLA](https://docs.google.com/presentation/d/1wB_Ul0LZwIDL47qFl64b8hVhH1_ya-1YPAPSSv0cKMs)
-
+[2024-09-21] [SGLang DeepSeek MLA](https://docs.google.com/presentation/d/1wB_Ul0LZwIDL47qFl64b8hVhH1_ya-1YPAPSSv0cKMs)
 
 ### Other
 
 [SGLang v0.2: Faster Interface and Runtime for LLM Inference](slides/SGLang-v0.2.pptx)
+
+## Videos
+
+[2024-10-16] [The First SGLang Online Meetup](https://www.youtube.com/watch?v=_mzKptPj0hE)
+
+[2024-10-05] [SGLang Developer Sync 20241005](https://www.youtube.com/watch?v=GdLE5nd2nJo)
+
+[2024-09-21] [SGLang Developer Sync 20240921](https://www.youtube.com/watch?v=bPtM-LLlCCU)
+
 
 ## Documentaion
 
