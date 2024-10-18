@@ -12,17 +12,22 @@
 
 ## Slides
 
-### The First SGLang Online Meetup
+### The first LMSYS online meetup: Efficient LLM Deployment and Serving
 
-[2024-10-16] [SGLang CPU Overhead Hiding](slides/the_first_sglang_online_meetup.pdf)
+[2024-10-16] [SGLang Overview & CPU Overhead Hiding](slides/lmsys_1st_meetup_sglang.pdf)
 
-[2024-10-16] [Faster Constrained Decoding](slides/faster_constrained_decoding.pdf)
+[2024-10-16] [Faster Constrained Decoding](slides/lmsys_1st_meetup_constrained_decoding.pdf)
 
-[2024-10-16] [SGLang DeepSeek MLA](slides/sglang_deepseek_mla.pdf)
+[2024-10-16] [SGLang DeepSeek MLA](slides/lmsys_1st_meetup_deepseek_mla.pdf)
+
+[2024-10-16] [Universal LLM deployment and low-latency serving in MLC LLM](slides/lmsys_1st_meetup_mlcengine.pdf)
+
+[2024-10-16] [XGrammar: Flexible And Efficient Structured Generation Engine for Large Language Models](slides/lmsys_1st_meetup_xgrammar.pdf)
+
 
 ### AMD Advancing AI 2024
 
-[2024-10-10] [Efficient LLM Inference with SGLang](slides/amd_dev_day_v2.pptx)
+[2024-10-10] [Efficient LLM Inference with SGLang](slides/amd_dev_day_v2.pdf)
 
 
 ### SGLang Biweekly Meeting
@@ -33,7 +38,7 @@
 
 ### Other
 
-[SGLang v0.2: Faster Interface and Runtime for LLM Inference](slides/SGLang-v0.2.pptx)
+[SGLang v0.2: Faster Interface and Runtime for LLM Inference](slides/SGLang-v0.2.pdf)
 
 ## Videos
 
@@ -43,13 +48,11 @@
 
 [2024-09-21] [SGLang Developer Sync 20240921](https://www.youtube.com/watch?v=bPtM-LLlCCU)
 
-
-## Documentaion
-
-Notes: It's working in progress.
-
-[SGLang Documentation](https://sglang.readthedocs.io/en/latest/)
-
 ## Paper
 
 [NeurIPS 24] [SGLang: Efficient Execution of Structured Language Model Programs](https://arxiv.org/abs/2312.07104)
+
+
+## Documentaion
+
+[SGLang Documentation](https://sglang.readthedocs.io/en/latest/)
