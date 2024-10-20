@@ -38,7 +38,7 @@
 
 ### Other
 
-[SGLang v0.2: Faster Interface and Runtime for LLM Inference](slides/SGLang-v0.2.pdf)
+[SGLang v0.2: Faster Interface and Runtime for LLM Inference](slides/sglang_v0_2.pdf)
 
 ## Videos
 
