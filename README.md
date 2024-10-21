@@ -42,7 +42,15 @@
 
 ## Videos
 
+Welcome to follow our YouTube [channel](https://www.youtube.com/@lmsys-org).
+
+### The first LMSYS online meetup
+
 [2024-10-16] [The First SGLang Online Meetup](https://www.youtube.com/watch?v=_mzKptPj0hE)
+
+### SGLang Biweekly Meeting
+
+[2024-10-19] [SGLang Developer Sync 20241019](https://www.youtube.com/watch?v=wEUxk2WrMg8)
 
 [2024-10-05] [SGLang Developer Sync 20241005](https://www.youtube.com/watch?v=GdLE5nd2nJo)
 
