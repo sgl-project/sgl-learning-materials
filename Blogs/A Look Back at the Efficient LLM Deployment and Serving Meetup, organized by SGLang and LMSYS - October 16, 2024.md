@@ -84,12 +84,12 @@ The FlashInfer team has an ambitious roadmap filled with enhancements that will 
 Ruihang Lai presented MLC-LLM, which he described as a Swiss Army knife for language model deployment. MLC-LLM has been meticulously designed to ensure low latency and high throughput across a variety of platforms, from servers and desktops to mobile devices and embedded systems.  
 Ruihang demonstrated the toolkit's flexibility and power, highlighting its ability to adapt seamlessly to different hardware environments without compromising on performance.  
 
-![intro](docs/figs/1016%20meetup%20-%20MLC%20LLM.png) 
+![architecture](docs/figs/1016%20meetup%20-%20MLC%20LLM%20architecture.png) 
 
 **The Future with MLC-LLM: Upcoming Enhancements**  
 The MLC-LLM team is dedicated to enhancing the toolkit's capabilities for universal deployment. Their ongoing development efforts aim to further reduce latency and increase scalability, making MLC-LLM an even more powerful solution for deploying language models across diverse operational environments.  
 
-![architecture](docs/figs/1016%20meetup%20-%20MLC%20LLM%20architecture.png) 
+![intro](docs/figs/1016%20meetup%20-%20MLC%20LLM.png) 
 
 ## **Memorable Insights, Conclusion, and Future Outlooks:**
 
