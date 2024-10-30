@@ -16,7 +16,7 @@ Lianmin Zheng and Liangsheng Yin from the SGLang team have significantly advance
 
 * **CPU and GPU Optimization:** This strategic coordination between processors minimises latency and maximises computation speeds, making operations smoother and faster.
 
-![][image2]
+![scheduler](docs/figs/1016%20meetup%20-%20SGLANG%20scheduler.png)
 
 * **Multi-Head Latent Attention (MLA):** MLA technology has been instrumental in increasing the precision of the model. By focusing on relevant data and ignoring extraneous information, MLA enhances both the speed and accuracy of data processing, making SGLANG highly effective in real-time applications.
 
@@ -31,19 +31,23 @@ The SGLANG team is dedicated to further advancing their model with several ambit
 * 
 * **Enhanced Adaptability:** With the aim of making SGLANG versatile enough to operate in diverse environments, the team is focusing on increasing its adaptability. This involves refining the model to handle various data types more effectively and ensuring it can seamlessly integrate into different technological ecosystems and platforms.
 
-![][image3]  
+![future work](docs/figs/1016%20meetup%20-%20SGLANG%20future%20work.png) 
+
 These initiatives reflect SGLang's commitment to maintaining its cutting-edge status in AI technology, pushing the envelope on speed, efficiency, and versatility.
 
 ### **XGrammar: Elevating Jason Decoding with Advanced Efficiency and Speed**
 
 XGrammar introduces significant advancements in Jason decoding, enhancing both speed and efficiency, now integrated into both SGLang and MLC frameworks.: 
 
-* **Enhanced Decoding Speed**: XGrammar significantly improves decoding speeds, achieving up to 3 to 5 times faster performance compared to existing backends. This improvement is facilitated by effective CPU overhead management and the strategic use of Token mask cache.![][image4]  
+* **Enhanced Decoding Speed**: XGrammar significantly improves decoding speeds, achieving up to 3 to 5 times faster performance compared to existing backends. This improvement is facilitated by effective CPU overhead management and the strategic use of Token mask cache.
+*
+![benchmark](docs/figs/1016%20meetup%20-%20Xgrammer%20benchmark.png) 
     
 * **Benchmarking Performance**: XGrammar has demonstrated a substantial 30% improvement in end-to-end speed in tests, even under conditions with minimal constant strings, showcasing its capability across various scenarios.
 * 
 * **Grammar-Guided Generation**: XGrammar excels in Grammar-guided generation, achieving state-of-the-art efficiency. This feature allows for more precise and sophisticated language model outputs.  
-  ![][image5]
+
+![optimization](docs/figs/1016%20meetup%20-%20Xgrammer%20optimization.png) 
 
 **Ongoing Developments**: The future of XGrammar focuses on enhancing its performance and expanding its application range. Key initiatives include:
 
@@ -61,7 +65,8 @@ Zihao Ye highlighted the role of FlashInfer in optimising the performance of AI 
 * 
 * **Flexibility and Speed:** Enhance flexibility by introducing user-defined functors for customise attention variants, keep optimising kernel performance for dynamic inputs in LLM serving.
 
-![][image6]  
+![intro](docs/figs/1016%20meetup%20-%20flashinfer.png) 
+
 **Looking Forward: Developments in FlashInfer:**  
 The roadmap for FlashInfer includes:
 
@@ -70,17 +75,21 @@ The roadmap for FlashInfer includes:
 
 **The Road Ahead: FlashInfer's Future Plans**  
 The FlashInfer team has an ambitious roadmap filled with enhancements that will introduce new features and optimizations. These advancements are aimed at further boosting the efficiency of language models and solidifying FlashInfer's role as an indispensable open-source tool in AI development.  
-![][image7]
+
+![roadmap](docs/figs/1016%20meetup%20-%20flashinfer%20roadmap.png) 
+
 
 ### **Meet MLC-LLM: The Swiss Army Knife for Language Model Deployment**
 
 Ruihang Lai presented MLC-LLM, which he described as a Swiss Army knife for language model deployment. MLC-LLM has been meticulously designed to ensure low latency and high throughput across a variety of platforms, from servers and desktops to mobile devices and embedded systems.  
 Ruihang demonstrated the toolkit's flexibility and power, highlighting its ability to adapt seamlessly to different hardware environments without compromising on performance.  
 
-![][image8]  
+![intro](docs/figs/1016%20meetup%20-%20MLC%20LLM.png) 
+
 **The Future with MLC-LLM: Upcoming Enhancements**  
 The MLC-LLM team is dedicated to enhancing the toolkit's capabilities for universal deployment. Their ongoing development efforts aim to further reduce latency and increase scalability, making MLC-LLM an even more powerful solution for deploying language models across diverse operational environments.  
-![][image9]
+
+![architecture](docs/figs/1016%20meetup%20-%20MLC%20LLM%20architecture.png) 
 
 ## **Memorable Insights, Conclusion, and Future Outlooks:**
 
