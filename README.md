@@ -63,4 +63,4 @@ Welcome to follow our YouTube [channel](https://www.youtube.com/@lmsys-org).
 
 ## Documentaion
 
-[SGLang Documentation](https://sglang.readthedocs.io/en/latest/)
+[SGLang Documentation](https://sgl-project.github.io/)
