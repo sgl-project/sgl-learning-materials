@@ -1,12 +1,14 @@
-A Look Back at the Efficient LLM Deployment and Serving Meetup, organised by SGLang， FlashInfer，MLC-LLM，XGrammar and LMSYS - October 16, 2024
+#A Look Back at the Efficient LLM Deployment and Serving Meetup, organised by SGLang， FlashInfer，MLC-LLM，XGrammar and LMSYS - October 16, 2024
 
-A Day of Insightful Learning and Connection
-Introduction: On a crisp autumn day, October 16, 2024, the virtual corridors of the Efficient LLM Deployment and Serving Meetup buzzed with the intellectual energy of participants from illustrious institutions like Shanghai Jiao Tong University, Carnegie Mellon University, X.AI, the University of Washington, and the combined prowess of the University of California, Berkeley. This distinguished gathering provided a fertile ground for sharing innovative strategies and latest advancements in the deployment and optimization of Large Language Models (LLMs). The event attracted a global audience, eager to dive into discussions that promised to shape the future of AI technology.
-Exploring SGLang: Enhancing Language Models for Speed
-An Introduction to SGLang
+On October 16, 2024, the virtual corridors of the Efficient LLM Deployment and Serving Meetup buzzed with the intellectual energy of participants from illustrious institutions like Carnegie Mellon University, X.AI, the University of Washington, Shanghai Jiao Tong University, and the combined prowess of the University of California, Berkeley. This distinguished gathering provided a fertile ground for sharing innovative strategies and latest advancements in the deployment and optimization of Large Language Models (LLMs). The event attracted a global audience, eager to dive into discussions that promised to shape the future of AI technology.
+
+##Exploring SGLang: Enhancing Language Models for Speed
+###An Introduction to SGLang
 SGLang is a fast serving framework developed by LMSYS Org for large language models (LLMs) and visual language models (VLMs). It is designed to optimise the execution of complex language model programs, providing high efficiency and scalability. SGLang features a frontend that simplifies programming with primitives for generation and parallelism control, while its runtime accelerates execution through innovations like RadixAttention for KV cache reuse and compressed finite state machines for faster decoding.
+
 The framework is recognized for its impressive performance, achieving up to 6.4x higher throughput compared to other state-of-the-art inference systems. It supports various tasks including agent control, logical reasoning, and multi-turn chat, making it a versatile tool for developers working with LLMs. SGLang is open-source and has been adopted by major organisations such as Databricks and Bytedance, highlighting its growing impact in the field of AI.
 Lianmin Zheng and Liangsheng Yin from the SGLang team have significantly advanced the integration of CPUs and GPUs, dramatically enhancing the efficiency and speed of language models. Key developments include:
+
 CPU and GPU Optimization: This strategic coordination between processors minimises latency and maximises computation speeds, making operations smoother and faster.
 
 Multi-Head Latent Attention (MLA): MLA technology has been instrumental in increasing the precision of the model. By focusing on relevant data and ignoring extraneous information, MLA enhances both the speed and accuracy of data processing, making SGLANG highly effective in real-time applications.
