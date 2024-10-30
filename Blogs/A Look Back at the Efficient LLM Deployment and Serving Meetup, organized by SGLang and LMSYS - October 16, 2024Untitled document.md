@@ -1,6 +1,6 @@
 # **A Look Back at the Efficient LLM Deployment and Serving Meetup, organised by SGLang， FlashInfer，MLC-LLM，XGrammar and LMSYS \- October 16, 2024**
 
-![](Blogs/docs/figs/1016 meetup - team.png)
+![](Blogs/docs/figs/1016%20meetup%20-%20team.png)
 
 ## **A Day of Insightful Learning and Connection**
 
