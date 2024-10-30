@@ -1,10 +1,10 @@
 # **A Look Back at the Efficient LLM Deployment and Serving Meetup, organised by SGLang， FlashInfer，MLC-LLM，XGrammar and LMSYS \- October 16, 2024**
 
-**![][image1]**
+**![](./Blogs/Docs/figs/team.png)**
 
 ## **A Day of Insightful Learning and Connection**
 
-**Introduction:** On a crisp autumn day, October 16, 2024, the virtual corridors of the Efficient LLM Deployment and Serving Meetup buzzed with the intellectual energy of participants from illustrious institutions like Shanghai Jiao Tong University, Carnegie Mellon University, X.AI, the University of Washington, and the combined prowess of the University of California, Berkeley. This distinguished gathering provided a fertile ground for sharing innovative strategies and latest advancements in the deployment and optimization of Large Language Models (LLMs). The event attracted a global audience, eager to dive into discussions that promised to shape the future of AI technology.
+**Introduction:** On October 16, 2024, the virtual corridors of the Efficient LLM Deployment and Serving Meetup buzzed with the intellectual energy of participants from illustrious institutions like Carnegie Mellon University, X.AI, the University of Washington, Shanghai Jiao Tong University, and University of California, Berkeley. This distinguished gathering provided a fertile ground for sharing innovative strategies and latest advancements in the deployment and optimization of Large Language Models (LLMs). The event attracted a global audience, eager to dive into discussions that promised to shape the future of AI technology.
 
 ### **Exploring SGLang: Enhancing Language Models for Speed**
 
