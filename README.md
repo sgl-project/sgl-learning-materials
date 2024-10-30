@@ -1,7 +1,7 @@
 # Materials for learning SGLang
 
 ## Blog
-[2024-10-16] [Review of the first LMSYS online meetup: Efficient LLM Deployment and Serving](.Blogs/Efficient%20LLM%20Deployment%20and%20Serving.md)
+[2024-10-16] [Review of the first LMSYS online meetup: Efficient LLM Deployment and Serving](Blogs/Efficient%20LLM%20Deployment%20and%20Serving.md)
 
 [2024-09-04] [SGLang v0.3 Release: 7x Faster DeepSeek MLA, 1.5x Faster torch.compile, Multi-Image/Video LLaVA-OneVision](https://lmsys.org/blog/2024-09-04-sglang-v0-3/)
 
