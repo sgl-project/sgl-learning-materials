@@ -50,6 +50,8 @@ Welcome to follow our YouTube [channel](https://www.youtube.com/@lmsys-org).
 
 ### SGLang Biweekly Meeting
 
+[2024-11-03] [SGLang Developer Sync 20241103](https://www.youtube.com/watch?v=k8Jo6-XcStM)
+
 [2024-10-19] [SGLang Developer Sync 20241019](https://www.youtube.com/watch?v=wEUxk2WrMg8)
 
 [2024-10-05] [SGLang Developer Sync 20241005](https://www.youtube.com/watch?v=GdLE5nd2nJo)
