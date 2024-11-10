@@ -52,6 +52,9 @@
 
 Welcome to follow our YouTube [channel](https://www.youtube.com/@lmsys-org).
 
+### GPU MODE
+[2024-11-10] [SGLang Performance Optimization](https://www.youtube.com/watch?v=XQylGyG7yp8)
+
 ### The first LMSYS online meetup
 
 [2024-10-16] [The First SGLang Online Meetup](https://www.youtube.com/watch?v=_mzKptPj0hE)
