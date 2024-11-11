@@ -1,8 +1,6 @@
 # Materials for learning SGLang
 
 ## Blog
-[2024-10-16] [Review of the first LMSYS online meetup: Efficient LLM Deployment and Serving](Blogs/Efficient%20LLM%20Deployment%20and%20Serving.md)
-
 [2024-09-04] [SGLang v0.3 Release: 7x Faster DeepSeek MLA, 1.5x Faster torch.compile, Multi-Image/Video LLaVA-OneVision](https://lmsys.org/blog/2024-09-04-sglang-v0-3/)
 
 [2024-07-25] [Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM)](https://lmsys.org/blog/2024-07-25-sglang-llama3/)
@@ -30,6 +28,7 @@
 
 [2024-10-16] [XGrammar: Flexible And Efficient Structured Generation Engine for Large Language Models](slides/lmsys_1st_meetup_xgrammar.pdf)
 
+[2024-10-16] [Review of the first LMSYS online meetup: Efficient LLM Deployment and Serving](blogs/Efficient%20LLM%20Deployment%20and%20Serving.md)
 
 ### AMD Advancing AI 2024
 
