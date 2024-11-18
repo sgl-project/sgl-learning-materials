@@ -44,6 +44,8 @@
 
 ### SGLang Biweekly Meeting
 
+[2024-11-16] [SGLang Router](slides/sglang_router.pdf)
+
 [2024-11-02] [Quantization on AMD](slides/sglang-fp8-mxfp-quantizations.pdf)
 
 [2024-10-05] [SGLang Double Sparsity](https://docs.google.com/presentation/d/1ibXDY7hjsk12QYcLeDpsFDYGlNvbkEF1XBgQJ-CqRDE)
