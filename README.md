@@ -44,7 +44,7 @@
 
 ### SGLang Biweekly Meeting
 
-[2024-11-16] [SGLang Router](slides/sglang_router.pdf)
+[2024-11-16] [SGLang Router](slides/sglang_router.pdf) and [Side-Channel KV Cache Attack](slides/Possible_Timing_Side_Channel_Of_KV_Cache.pdf)
 
 [2024-11-02] [Quantization on AMD](slides/sglang-fp8-mxfp-quantizations.pdf)
 
@@ -61,6 +61,7 @@
 Welcome to follow our YouTube [channel](https://www.youtube.com/@lmsys-org).
 
 ### GPU MODE
+
 [2024-11-10] [SGLang Performance Optimization](https://www.youtube.com/watch?v=XQylGyG7yp8)
 
 ### The first LMSYS online meetup
