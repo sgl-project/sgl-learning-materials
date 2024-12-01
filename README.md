@@ -22,7 +22,6 @@
 
 [2024-11-10] [SGLang Performance Optimization](slides/SGLang-Performance-Optimization-YinengZhang.pdf)
 
-
 ### The first LMSYS online meetup: Efficient LLM Deployment and Serving
 
 [2024-10-16] [SGLang Overview & CPU Overhead Hiding](slides/lmsys_1st_meetup_sglang.pdf)
@@ -41,8 +40,9 @@
 
 [2024-10-10] [Efficient LLM Inference with SGLang](slides/amd_dev_day_v2.pdf)
 
-
 ### SGLang Biweekly Meeting
+
+[2024-11-30] [Update Weights From Distributed](slides/update-weights-from-distributed.pdf)
 
 [2024-11-16] [SGLang Router](slides/sglang_router.pdf) and [Side-Channel KV Cache Attack](slides/Possible_Timing_Side_Channel_Of_KV_Cache.pdf)
 
