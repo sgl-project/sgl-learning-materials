@@ -70,6 +70,10 @@ Welcome to follow our YouTube [channel](https://www.youtube.com/@lmsys-org).
 
 [2024-10-16] [The First SGLang Online Meetup](https://www.youtube.com/watch?v=_mzKptPj0hE)
 
+### AMD Advancing AI 2024
+
+[2024-10-10] [Efficient LLM Inference with SGLang](https://www.youtube.com/watch?v=Ny4xxErgFgQ)
+
 ### SGLang Biweekly Meeting
 
 [2024-11-30] [SGLang Developer Sync 20241130](https://www.youtube.com/watch?v=CcdGb310KWU)
