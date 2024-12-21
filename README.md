@@ -20,6 +20,10 @@
 
 ## Slides
 
+### CAMEL-AI Hackathon: Mastering Multi-Agent Systems
+
+[2024-12-21] [SGLang v0.4 Optimization](https://gamma.app/docs/SGLang-v04-Optimization-6x6pml7351oy58r?mode=doc)
+
 ### GPU MODE
 
 [2024-11-10] [SGLang Performance Optimization](slides/SGLang-Performance-Optimization-YinengZhang.pdf)
