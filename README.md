@@ -1,5 +1,15 @@
 # Materials for learning SGLang
 
+## Announcement
+
+🎉 Through dedicated efforts from July to December 2024, the SGLang team has achieved significant milestones with three major releases: [v0.2](https://lmsys.org/blog/2024-07-25-sglang-llama3/), [v0.3](https://lmsys.org/blog/2024-09-04-sglang-v0-3/), and [v0.4](https://lmsys.org/blog/2024-12-04-sglang-v0-4/). For detailed optimization insights, please refer to our corresponding blog posts.
+
+🚀 We're proud to announce that SGLang has been adopted as:
+- The dominant LLM engine by AMD
+- The default LLM engine for xAI
+
+For more information, please check out [AMD's ROCm 6.3 official announcement](https://community.amd.com/t5/ai/unlocking-new-horizons-in-ai-and-hpc-with-the-release-of-amd/ba-p/726434) and [xAI's presentation](https://www.amd.com/en/developer/resources/advancing-ai/developer-sessions.html) at the AMD Advancing AI Conference 2024.
+
 ## Blog
 
 ## LMSYS Org
