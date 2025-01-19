@@ -30,6 +30,13 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 
 ## Slides
 
+### Hyperbolic in-person meetup
+[2025-01-15] [Efficient LLM Inference with SGLang](https://gamma.app/docs/Hyperbolic-SGLang-Meet-Up-d539eo3jb9yna29?mode=doc)
+
+[2025-01-15] [Cache-Aware Load Balancer in SGLang](slides/sglang-router.pdf)
+
+[2025-01-15] [SGLang DeepSeek Model Optimizations](slides/sglang_deepseek_model_optimizations.pdf)
+
 ### CAMEL-AI Hackathon: Mastering Multi-Agent Systems
 
 [2024-12-21] [SGLang v0.4 Optimization](https://gamma.app/docs/SGLang-v04-Optimization-6x6pml7351oy58r?mode=doc)
