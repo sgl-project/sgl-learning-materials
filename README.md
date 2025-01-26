@@ -28,6 +28,10 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 
 [2024-11-13] [SGLang: Fast Serving Framework for Large Language and Vision-Language Models on AMD GPUs](https://rocm.blogs.amd.com/artificial-intelligence/sglang/README.html)
 
+## PyTorch
+
+[2025-01-21] [Accelerating LLM Inference with GemLite, TorchAO and SGLang](https://pytorch.org/blog/accelerating-llm-inference/)
+
 ## Slides
 
 ### Hyperbolic in-person meetup
