@@ -69,6 +69,8 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 
 ### SGLang Biweekly Meeting
 
+[2025-1-25] [A fair and efficient scheduling algorithm](slides/sglang-FLPM.pdf)
+
 [2024-11-30] [Update Weights From Distributed](slides/update-weights-from-distributed.pdf)
 
 [2024-11-16] [SGLang Router](slides/sglang_router.pdf) and [Side-Channel KV Cache Attack](slides/Possible_Timing_Side_Channel_Of_KV_Cache.pdf)
