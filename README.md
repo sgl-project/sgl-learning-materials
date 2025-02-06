@@ -1,7 +1,14 @@
 # Materials for learning SGLang
 
+Please join our Slack Channel https://slack.sglang.ai. For enterprises interested in adopting or deploying SGLang at scale, including technical consulting, sponsorship opportunities, or partnership inquiries, please contact us at contact@sglang.ai.
+
 ## Announcement
 
+### February 2025
+The SGLang Team is honored to announce that the following well-known companies and teams, among others, have adopted SGLang for running DeepSeek V3 and R1.
+[AMD](https://www.amd.com/en/developer/resources/technical-articles/amd-instinct-gpus-power-deepseek-v3-revolutionizing-ai-development-with-sglang.html), [NVIDIA](https://build.nvidia.com/deepseek-ai/deepseek-r1/modelcard), [Microsoft Azure](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/running-deepseek-r1-on-a-single-ndv5-mi300x-vm/4372726), [Baseten](https://www.baseten.co/library/deepseek-v3/), [Novita AI](https://openrouter.ai/deepseek/deepseek-chat), [ByteDance Volcengine](https://mp.weixin.qq.com/s/0BItMZq7ZQwXpxYmfljvCA), [DataCrunch](https://datacrunch.io/blog/deploy-deepseek-r1-on-8x-nvidia-h200), [Hyperbolic](https://x.com/zjasper666/status/1872657228676895185), [Vultr](https://docs.vultr.com/how-to-deploy-deepseek-v3-large-language-model-llm-using-sglang), [RunPod](https://blog.runpod.io/whats-new-for-serverless-llm-usage-in-runpod-in-2025/) and so on.
+
+### December 2024
 🎉 Through dedicated efforts from July to December 2024, the SGLang team has achieved significant milestones with three major releases: [v0.2](https://lmsys.org/blog/2024-07-25-sglang-llama3/), [v0.3](https://lmsys.org/blog/2024-09-04-sglang-v0-3/), and [v0.4](https://lmsys.org/blog/2024-12-04-sglang-v0-4/). For detailed optimization insights, please refer to our corresponding blog posts.
 
 🚀 We're proud to announce that SGLang has been adopted as:
