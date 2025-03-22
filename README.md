@@ -4,6 +4,14 @@ Please join our Slack Channel https://slack.sglang.ai. For enterprises intereste
 
 ## Announcement
 
+### March 2025
+
+The SGLang team is thrilled to announce that SGLang has officially joined the PyTorch ecosystem and has achieved SOTA performance on AMD nightly image. We look forward to further open-source enhancements and improvements! For more details, please refer to the official blogs. Cheers! 🚀🚀🚀
+
+[SGLang Joins PyTorch Ecosystem: Efficient LLM Serving Engine](https://pytorch.org/blog/sglang-joins-pytorch)
+
+[Supercharge DeepSeek-R1 Inference on AMD Instinct MI300X](https://rocm.blogs.amd.com/artificial-intelligence/DeepSeekR1-Part2/README.html)
+
 ### February 2025
 The SGLang Team is honored to announce that the following well-known companies and teams, among others, have adopted SGLang for running DeepSeek V3 and R1.
 [AMD](https://www.amd.com/en/developer/resources/technical-articles/amd-instinct-gpus-power-deepseek-v3-revolutionizing-ai-development-with-sglang.html), [NVIDIA](https://build.nvidia.com/deepseek-ai/deepseek-r1/modelcard), [Microsoft Azure](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/running-deepseek-r1-on-a-single-ndv5-mi300x-vm/4372726), [Baseten](https://www.baseten.co/library/deepseek-v3/), [Novita AI](https://openrouter.ai/deepseek/deepseek-chat), [ByteDance Volcengine](https://mp.weixin.qq.com/s/0BItMZq7ZQwXpxYmfljvCA), [DataCrunch](https://datacrunch.io/blog/deploy-deepseek-r1-on-8x-nvidia-h200), [Hyperbolic](https://x.com/zjasper666/status/1872657228676895185), [Vultr](https://docs.vultr.com/how-to-deploy-deepseek-v3-large-language-model-llm-using-sglang), [RunPod](https://blog.runpod.io/whats-new-for-serverless-llm-usage-in-runpod-in-2025/) and so on.
