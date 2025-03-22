@@ -41,11 +41,23 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 
 ## AMD
 
+[2025-03-21] [Supercharge DeepSeek-R1 Inference on AMD Instinct MI300X](https://rocm.blogs.amd.com/artificial-intelligence/DeepSeekR1-Part2/README.html)
+
+[2025-02-21] [Unlock DeepSeek-R1 Inference Performance on AMD Instinct™ MI300X GPU](https://rocm.blogs.amd.com/artificial-intelligence/DeepSeekR1_Perf/README.html)
+
+[2025-01-07] [AMD Instinct™ GPUs Power DeepSeek-V3: Revolutionizing AI Development with SGLang](https://www.amd.com/en/developer/resources/technical-articles/amd-instinct-gpus-power-deepseek-v3-revolutionizing-ai-development-with-sglang.html)
+
 [2024-11-13] [SGLang: Fast Serving Framework for Large Language and Vision-Language Models on AMD GPUs](https://rocm.blogs.amd.com/artificial-intelligence/sglang/README.html)
 
-## PyTorch
+## Meta PyTorch
+
+[2025-03-19] [SGLang Joins PyTorch Ecosystem: Efficient LLM Serving Engine](https://pytorch.org/blog/sglang-joins-pytorch)
 
 [2025-01-21] [Accelerating LLM Inference with GemLite, TorchAO and SGLang](https://pytorch.org/blog/accelerating-llm-inference/)
+
+## Microsoft Azure
+
+[2025-01-31] [Running DeepSeek-R1 on a single NDv5 MI300X VM](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/running-deepseek-r1-on-a-single-ndv5-mi300x-vm/4372726)
 
 ## Slides
 
