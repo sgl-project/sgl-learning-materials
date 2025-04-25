@@ -62,6 +62,7 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 ## Slides
 
 ### Hyperbolic in-person meetup
+
 [2025-01-15] [Efficient LLM Inference with SGLang](https://gamma.app/docs/Hyperbolic-SGLang-Meet-Up-d539eo3jb9yna29?mode=doc)
 
 [2025-01-15] [Cache-Aware Load Balancer in SGLang](slides/sglang-router.pdf)
@@ -95,6 +96,8 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 [2024-10-10] [Efficient LLM Inference with SGLang](slides/amd_dev_day_v2.pdf)
 
 ### SGLang Biweekly Meeting
+
+[2025-4-22] [Optimizing Large Scale RLHF with SGLang](https://gamma.app/docs/Optimizing-Large-Scale-RLHF-with-SGLang-dc69w8usckezkcu)
 
 [2025-1-25] [A fair and efficient scheduling algorithm](slides/sglang-FLPM.pdf)
 
