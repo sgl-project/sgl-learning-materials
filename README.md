@@ -4,6 +4,10 @@ Please join our Slack Channel https://slack.sglang.ai. For enterprises intereste
 
 ## Announcement
 
+### May 2025
+
+The SGLang team is delighted to announce that SGLang has become the first fully open-source LLM serving engine to support large-scale Expert-Parallelism (EP) and Prefill-Decode disaggregation, achieving throughput that matches the performance reported in the DeepSeek official blog. The cost has been reduced to $0.20 per 1M output tokens. For more details, please refer to our [LMSYS blog](https://lmsys.org/blog/2025-05-05-large-scale-ep/) and the [slides](./slides/sglang_pytorch_china_2025.pdf) presented at PyTorch Day China.
+
 ### March 2025
 
 The SGLang team is thrilled to announce that SGLang has officially joined the PyTorch ecosystem and has achieved SOTA performance on AMD nightly image. We look forward to further open-source enhancements and improvements! For more details, please refer to the official blogs. Cheers! 🚀🚀🚀
