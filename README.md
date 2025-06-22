@@ -65,6 +65,10 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 
 ## Slides
 
+### CUDA Tech Briefing at NVIDIA GTC 2025
+
+[2025-03-19] [GTC 2025 - Accelerated Computing / CUDA Technical Briefing](slides/cuda_tech_briefing_at_nvidia_gtc_2025.pdf)
+
 ### Hyperbolic in-person meetup
 
 [2025-01-15] [Efficient LLM Inference with SGLang](https://gamma.app/docs/Hyperbolic-SGLang-Meet-Up-d539eo3jb9yna29?mode=doc)
