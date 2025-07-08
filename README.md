@@ -65,6 +65,10 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 
 ## Slides
 
+### AWS AI Hours Singapore
+
+[2025-07-08] [SGLang: An Efficient Open-Source Framework for Large-Scale LLM Serving](https://gamma.app/docs/SGLang-AWS-AI-Hours-te0wahzlk4fjws8)
+
 ### CUDA Tech Briefing at NVIDIA GTC 2025
 
 [2025-03-19] [GTC 2025 - Accelerated Computing / CUDA Technical Briefing](slides/cuda_tech_briefing_at_nvidia_gtc_2025.pdf)
