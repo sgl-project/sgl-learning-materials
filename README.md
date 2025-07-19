@@ -31,7 +31,9 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 
 ## Blog
 
-## LMSYS Org
+## LMSYS Org (https://lmsys.org/blog/)
+
+[2025-05-05] [Deploying DeepSeek with PD Disaggregation and Large-Scale Expert Parallelism on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
 
 [2024-12-04] [SGLang v0.4: Zero-Overhead Batch Scheduler, Cache-Aware Load Balancer, Faster Structured Outputs](https://lmsys.org/blog/2024-12-04-sglang-v0-4/)
 
