@@ -67,6 +67,16 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 
 ## Slides
 
+### AMD SGLang Meetup
+
+[2025-08-22] [AMD SGLang Meetup - Large-scale Deployment of Emerging LLMs](slides/amd_meetup_sglang_ep.pdf)
+
+[2025-08-22] [AMD SGLang Meetup - Highlights - Speed in Action](slides/amd_meetup_highlights.pdf)
+
+[2025-08-22] [AMD SGLang Meetup - SGLang x Wave](slides/amd_meetup_wave.pdf)
+
+[2025-08-22] [AMD SGLang Meetup - AITER/MoRI Introduction](slides/amd_meetup_aiter_mori.pdf)
+
 ### AWS AI Hours Singapore
 
 [2025-07-08] [SGLang: An Efficient Open-Source Framework for Large-Scale LLM Serving](https://gamma.app/docs/SGLang-AWS-AI-Hours-te0wahzlk4fjws8)
