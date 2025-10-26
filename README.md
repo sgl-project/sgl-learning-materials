@@ -29,45 +29,15 @@ The SGLang Team is honored to announce that the following well-known companies a
 
 For more information, please check out [AMD's ROCm 6.3 official announcement](https://community.amd.com/t5/ai/unlocking-new-horizons-in-ai-and-hpc-with-the-release-of-amd/ba-p/726434) and [xAI's presentation](https://www.amd.com/en/developer/resources/advancing-ai/developer-sessions.html) at the AMD Advancing AI Conference 2024.
 
-## Blog
-
-## LMSYS Org (https://lmsys.org/blog/)
-
-[2025-05-05] [Deploying DeepSeek with PD Disaggregation and Large-Scale Expert Parallelism on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
-
-[2024-12-04] [SGLang v0.4: Zero-Overhead Batch Scheduler, Cache-Aware Load Balancer, Faster Structured Outputs](https://lmsys.org/blog/2024-12-04-sglang-v0-4/)
-
-[2024-09-04] [SGLang v0.3 Release: 7x Faster DeepSeek MLA, 1.5x Faster torch.compile, Multi-Image/Video LLaVA-OneVision](https://lmsys.org/blog/2024-09-04-sglang-v0-3/)
-
-[2024-07-25] [Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM)](https://lmsys.org/blog/2024-07-25-sglang-llama3/)
-
-[2024-02-05] [Fast JSON Decoding for Local LLMs with Compressed Finite State Machine](https://lmsys.org/blog/2024-02-05-compressed-fsm/)
-
-[2024-01-17] [Fast and Expressive LLM Inference with RadixAttention and SGLang](https://lmsys.org/blog/2024-01-17-sglang/)
-
-## AMD
-
-[2025-03-21] [Supercharge DeepSeek-R1 Inference on AMD Instinct MI300X](https://rocm.blogs.amd.com/artificial-intelligence/DeepSeekR1-Part2/README.html)
-
-[2025-02-21] [Unlock DeepSeek-R1 Inference Performance on AMD Instinct™ MI300X GPU](https://rocm.blogs.amd.com/artificial-intelligence/DeepSeekR1_Perf/README.html)
-
-[2025-01-07] [AMD Instinct™ GPUs Power DeepSeek-V3: Revolutionizing AI Development with SGLang](https://www.amd.com/en/developer/resources/technical-articles/amd-instinct-gpus-power-deepseek-v3-revolutionizing-ai-development-with-sglang.html)
-
-[2024-11-13] [SGLang: Fast Serving Framework for Large Language and Vision-Language Models on AMD GPUs](https://rocm.blogs.amd.com/artificial-intelligence/sglang/README.html)
-
-## Meta PyTorch
-
-[2025-03-19] [SGLang Joins PyTorch Ecosystem: Efficient LLM Serving Engine](https://pytorch.org/blog/sglang-joins-pytorch)
-
-[2025-01-21] [Accelerating LLM Inference with GemLite, TorchAO and SGLang](https://pytorch.org/blog/accelerating-llm-inference/)
-
-## Microsoft Azure
-
-[2025-01-31] [Running DeepSeek-R1 on a single NDv5 MI300X VM](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/running-deepseek-r1-on-a-single-ndv5-mi300x-vm/4372726)
-
 ## Slides
 
+[2025-10-22] [PyTorch Conference 2025 SGLang](slides/sglang_pytorch_2025.pdf)
+
+[2025-10-20] [AMD AI Dev Day 2025 SGLang](slides/sglang_amd_ai_devday_2025.pdf)
+
 ### AMD SGLang Meetup
+
+[2025-08-22] [AMD SGLang Meetup - SGLang roadmap](slides/amd_meetup_sglang_roadmap.pdf)
 
 [2025-08-22] [AMD SGLang Meetup - Large-scale Deployment of Emerging LLMs](slides/amd_meetup_sglang_ep.pdf)
 
@@ -138,6 +108,42 @@ For more information, please check out [AMD's ROCm 6.3 official announcement](ht
 ### Other
 
 [SGLang v0.2: Faster Interface and Runtime for LLM Inference](slides/sglang_v0_2.pdf)
+
+## Blog
+
+## LMSYS Org (https://lmsys.org/blog/)
+
+[2025-05-05] [Deploying DeepSeek with PD Disaggregation and Large-Scale Expert Parallelism on 96 H100 GPUs](https://lmsys.org/blog/2025-05-05-large-scale-ep/)
+
+[2024-12-04] [SGLang v0.4: Zero-Overhead Batch Scheduler, Cache-Aware Load Balancer, Faster Structured Outputs](https://lmsys.org/blog/2024-12-04-sglang-v0-4/)
+
+[2024-09-04] [SGLang v0.3 Release: 7x Faster DeepSeek MLA, 1.5x Faster torch.compile, Multi-Image/Video LLaVA-OneVision](https://lmsys.org/blog/2024-09-04-sglang-v0-3/)
+
+[2024-07-25] [Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM)](https://lmsys.org/blog/2024-07-25-sglang-llama3/)
+
+[2024-02-05] [Fast JSON Decoding for Local LLMs with Compressed Finite State Machine](https://lmsys.org/blog/2024-02-05-compressed-fsm/)
+
+[2024-01-17] [Fast and Expressive LLM Inference with RadixAttention and SGLang](https://lmsys.org/blog/2024-01-17-sglang/)
+
+## AMD
+
+[2025-03-21] [Supercharge DeepSeek-R1 Inference on AMD Instinct MI300X](https://rocm.blogs.amd.com/artificial-intelligence/DeepSeekR1-Part2/README.html)
+
+[2025-02-21] [Unlock DeepSeek-R1 Inference Performance on AMD Instinct™ MI300X GPU](https://rocm.blogs.amd.com/artificial-intelligence/DeepSeekR1_Perf/README.html)
+
+[2025-01-07] [AMD Instinct™ GPUs Power DeepSeek-V3: Revolutionizing AI Development with SGLang](https://www.amd.com/en/developer/resources/technical-articles/amd-instinct-gpus-power-deepseek-v3-revolutionizing-ai-development-with-sglang.html)
+
+[2024-11-13] [SGLang: Fast Serving Framework for Large Language and Vision-Language Models on AMD GPUs](https://rocm.blogs.amd.com/artificial-intelligence/sglang/README.html)
+
+## Meta PyTorch
+
+[2025-03-19] [SGLang Joins PyTorch Ecosystem: Efficient LLM Serving Engine](https://pytorch.org/blog/sglang-joins-pytorch)
+
+[2025-01-21] [Accelerating LLM Inference with GemLite, TorchAO and SGLang](https://pytorch.org/blog/accelerating-llm-inference/)
+
+## Microsoft Azure
+
+[2025-01-31] [Running DeepSeek-R1 on a single NDv5 MI300X VM](https://techcommunity.microsoft.com/blog/azurehighperformancecomputingblog/running-deepseek-r1-on-a-single-ndv5-mi300x-vm/4372726)
 
 ## Videos
 
