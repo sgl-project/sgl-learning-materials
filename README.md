@@ -1,6 +1,6 @@
 # Materials for learning SGLang
 
-Please join our Slack Channel https://slack.sglang.ai. For enterprises interested in adopting or deploying SGLang at scale, including technical consulting, sponsorship opportunities, or partnership inquiries, please contact us at contact@sglang.ai.
+Please join our Slack Channel https://slack.sglang.ai. For enterprises interested in adopting or deploying SGLang at scale, including technical consulting, sponsorship opportunities, or partnership inquiries, please contact us at sglang@lmsys.org.
 
 ## Announcement
 
