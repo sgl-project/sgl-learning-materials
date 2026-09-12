@@ -2,6 +2,8 @@
 
 Please join our Slack Channel https://slack.sglang.ai. For enterprises interested in adopting or deploying SGLang at scale, including technical consulting, sponsorship opportunities, or partnership inquiries, please contact us at sglang@lmsys.org.
 
+- **[zero-to-sglang](https://github.com/datawhalechina/zero-to-sglang)**: Companion tutorial on LLM inference and building a mini-sglang from scratch (English and Chinese).
+
 ## Announcement
 
 ### May 2025
